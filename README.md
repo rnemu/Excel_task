@@ -1,5 +1,6 @@
 
-#Excel_task
+# Excel_task
+
 
 Solving problem using excel.
 
@@ -17,4 +18,6 @@ Solving problem using excel.
 6.Hlookup() etc.
  
 *Also use pivot table and datatype conversion.
+
+
 
