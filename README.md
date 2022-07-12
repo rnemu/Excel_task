@@ -1,2 +1,9 @@
 # Excel_task
-#Use different Excel functions like countif(),sumif(),countifs(),if(),vlookup(),Hllokup() according to the problem statement.
+Use different Excel functionsaccording to the problem statement, like 
+1.countif()
+2.sumif()
+3.countifs()
+4.if()
+5.vlookup()
+6.Hlookup() etc
+Also use pivot table and datatype conversion.
