@@ -7,6 +7,7 @@ Use different Excel functions according to the problem statement, like -
 4.if() 
 5.vlookup() 
 6.Hlookup() etc.
+
 Also use pivot table and datatype conversion.
 
 
