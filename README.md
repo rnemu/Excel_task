@@ -5,8 +5,8 @@ Use different Excel functions according to the problem statement, like -
  2. sumif() 
  3. countifs() 
  4. if() 
- 5.vlookup() 
- 6.Hlookup() etc.
+ 5. vlookup() 
+ 6. Hlookup() etc.
 
 Also use pivot table and datatype conversion.
 
